@@ -1,5 +1,5 @@
 🛍️ Fashion Hub - E-Commerce Home Page
-Welcome to Fashion Hub, a sleek and modern e-commerce home page for a fashion website. This project is designed to showcase stylish fashion products, engaging banners, and user-friendly navigation to give customers an amazing first impression.
+Welcome to Fashion Hub, a sleek and modern e-commerce home page for a fashion website. This project is designed to showcase stylish fashion products, engaging banners, and user-friendly navigation to give customers an amazing first impression
 
 🌐 Features
 Hero section with eye-catching banner and CTA
